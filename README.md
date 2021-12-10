@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlphaMarvihs
 - 👀 I’m interested in coding projects.
 - 🌱 I’m currently persuing Btech from IT branch 
-- 💞️ I’m looking to collaborate on cretive and meaningful coding projects.
+- 💞️ I’m looking to collaborate on creative and meaningful coding projects.
 - 📫 How to reach me- contact me @ AlphaMarvihs@gmail.com
 
 <!---
